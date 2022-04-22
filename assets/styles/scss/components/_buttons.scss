@@ -7,14 +7,12 @@
 
 .btnPrimary {
     @extend %btn;
-    color: $btnColorPrimary;
-    background:blue;
+    
     
 }
 
 .btnSecondary {
     @extend %btn;
-    color: blue;
 }
 
 
