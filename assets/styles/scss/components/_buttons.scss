@@ -1,0 +1,21 @@
+/* STYLE BOUTON*/
+
+%btn {
+    width:150px;
+    border: 4px solid red;
+}
+
+.btnPrimary {
+    @extend %btn;
+    color: $btnColorPrimary;
+    background:blue;
+    
+}
+
+.btnSecondary {
+    @extend %btn;
+    color: blue;
+}
+
+
+

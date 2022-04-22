@@ -1,0 +1,23 @@
+{
+  "name": "init_css_sass",
+  "version": "1.0.0",
+  "description": "Reset html et css",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/styles/scss/main.scss  assets/styles/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AubourgA/initProjet_Front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AubourgA/initProjet_Front/issues"
+  },
+  "homepage": "https://github.com/AubourgA/initProjet_Front#readme",
+  "devDependencies": {
+    "sass": "^1.50.0"
+  }
+}
